@@ -1,0 +1,28 @@
+.yellowbox {
+    background-color: gold;
+  color: silver;
+  padding: 20px;
+}
+.bluebox {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
+
+.big {
+    font-size:30px;
+}
+.medium {
+    font-size: 20px;
+}
+.small {
+    font-size:15px;
+}
+
+.white{
+    color:white;
+}
+
+body {
+    background-color: black;
+}
